@@ -5,7 +5,7 @@ import java.util.concurrent.TimeUnit;
 import org.springframework.stereotype.Component;
 
 
-//@Component
+@Component
 public class EventImplJob implements Runnable{
 	
 	@Override
